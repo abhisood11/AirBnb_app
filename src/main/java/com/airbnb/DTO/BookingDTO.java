@@ -37,7 +37,4 @@ public class BookingDTO {
 	private UserDTO1 usersDTO;
 	
 	private ListingDTO1 listingDTO;
-	
-	
-	
 }
